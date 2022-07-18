@@ -29,8 +29,8 @@ I'm Sparsh Gupta, an AI enthusiast & a programming fanatic, working on Machine L
 
 ---
 I'm currently:
-- a Senior Data Scientist at O9 Solutions, Inc. working on predicting trends
-- a Technical Writer on TowardsDataScience and HackerNoon
+- a Data Scientist at L&T Infotech working on natural language processing
+- a Technical Writer on Built In, TowardsDataScience and HackerNoon
 - working on my Deep Learning skills to keep up with the latest trends
 - open to collaborate on Kaggle competitions
 ---
